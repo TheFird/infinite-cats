@@ -1,0 +1,23 @@
+img{
+    max-width: 500px;
+    max-width: 500px;
+    border-radius: 5%;
+    box-shadow: 10px 10px 20px black;
+}
+
+#cats{
+    display: flex;
+    flex-direction: column;
+    align-content: center;
+    justify-content: center;
+    width: 100%;
+    gap: 50px;
+}
+
+.cat{
+    width: 100%;
+    display: flex;
+    align-content: center;
+    justify-content: center;
+
+}
